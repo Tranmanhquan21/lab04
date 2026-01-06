@@ -5,6 +5,7 @@ File:
 - ex1_names.php
 Link chạy:
 http://localhost/lab04/ex1_names.php?names=An,Binh, Chi, ,Dung
+
 Chức năng:
 - Tách chuỗi bằng dấu phẩy
 - Trim, loại phần tử rỗng
@@ -14,6 +15,7 @@ File:
 - ex2_scores.php
 Link chạy:
 http://localhost/lab04/ex2_scores.php
+
 Chức năng:
 - Tính điểm trung bình
 - Đếm điểm >= 8.0
@@ -24,6 +26,7 @@ File:
 - ex3_cart.php
 Link chạy:
 http://localhost/lab04/ex3_cart.php
+
 Chức năng:
 - Tính amount = price * qty
 - Hiển thị bảng sản phẩm
@@ -35,6 +38,7 @@ File:
 - ex4_students.php
 Link chạy:
 http://localhost/lab04/ex4_students.php
+
 Chức năng:
 - Class Student (id, name, gpa)
 - Xếp loại: Giỏi / Khá / Trung bình
@@ -51,6 +55,7 @@ SV001-An-3.2;
 SV002-Binh-2.6;
 SV003-Chi-3.5;
 SV004-Dung-3.8
+
 Chức năng:
 - Parse chuỗi → Student[]
 - Bỏ record sai định dạng
@@ -67,6 +72,7 @@ Dữ liệu mẫu nhập vào textarea:
 B001-Intro to PHP-2;
 B002-Web Programming-5;
 B003-Database Basics-1
+
 Chức năng:
 - Parse chuỗi → Book[]
 - Tìm theo Title (không phân biệt hoa thường)
@@ -82,6 +88,7 @@ Dữ liệu mẫu nhập vào textarea:
 P001-Rice Cooker-120-2;
 P002-Kettle-45-1;
 P003-Blender-80-3
+
 Chức năng:
 - Parse chuỗi → Product[]
 - Lọc theo Min Price
