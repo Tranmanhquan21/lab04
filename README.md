@@ -11,6 +11,7 @@ Chức năng:
 - Tách chuỗi bằng dấu phẩy
 - Trim, loại phần tử rỗng
 - Hiển thị danh sách tên và số lượng
+  
 Bài 2: Mảng điểm: Thống kê + Sắp xếp
 File:
 - ex2_scores.php
@@ -22,6 +23,7 @@ Chức năng:
 - Đếm điểm >= 8.0
 - Tìm max, min
 - Sắp xếp tăng / giảm
+  
 Bài 3: Giỏ hàng (Mảng nhiều chiều)
 File:
 - ex3_cart.php
@@ -33,6 +35,7 @@ Chức năng:
 - Hiển thị bảng sản phẩm
 - Tính tổng tiền
 - Sort theo price giảm dần
+  
 Bài 4: OOP Student + Render + Thống kê
 File:
 - Student.php
@@ -45,6 +48,7 @@ Chức năng:
 - Xếp loại: Giỏi / Khá / Trung bình
 - Tính GPA trung bình lớp
 - Thống kê theo rank
+  
 Bài 5: Student Manager (POST)
 File:
 - Student.php
@@ -63,6 +67,7 @@ Chức năng:
 - Lọc GPA theo threshold
 - Sort GPA giảm dần
 - Thống kê: avg, max, min, rank
+  
 Bài 6A: Quản lý thư viện mini (Library Manager)
 File:
 - Book.php
@@ -79,6 +84,7 @@ Chức năng:
 - Tìm theo Title (không phân biệt hoa thường)
 - Sort Qty giảm dần
 - Thống kê thư viện
+  
 Bài 6B: Mini Sales Manager
 File:
 - Product.php
